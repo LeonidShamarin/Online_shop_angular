@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Online Shop Angular is a web application developed using the Angular framework that provides a platform for users to browse and purchase products online. The application features a user-friendly interface, allowing customers to easily navigate through various products and view product details.
+Online Shop Angular is a web application developed using the Angular framework that provides a platform for users to browse products online. The application features a user-friendly interface, allowing customers to easily navigate through various products and view product details.
 
 ## Features
 
